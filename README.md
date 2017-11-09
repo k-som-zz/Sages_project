@@ -26,3 +26,43 @@ Ten real-valued features are computed for each cell nucleus:
 
 
 #### Limitations: super small data set!
+
+
+Table of Contents:
+1. Data set preparation
+
+    1.1 Read the data set
+    1.2 Remove ID column
+    1.3 Binary 'diagnosis' input
+    1.4 Missing values
+    1.5 Class distribution
+
+2. Testing algorithms
+
+    2.1 Withouth dimensionality reduction
+
+        2.1.1 Comparison
+
+    2.2 Correlation Coefficient Score
+
+        2.2.1 Comparison
+
+    2.3 Voting classifier
+
+        2.3.1 Voting hard 2.3.2 Voting soft
+
+            2.3.3 Comparison
+
+    2.4 Linear SVC + SelectFromModel
+
+        2.4.1 Comparison
+
+    2.5 Linear SVC + RFECV
+
+        2.5.1 Comparison
+
+    2.6 Tree-based feature classifier
+
+        2.6.1 Comparison
+
+
