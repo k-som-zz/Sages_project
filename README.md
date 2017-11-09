@@ -1,4 +1,5 @@
-# Breast cancer Wisconsin diagnostic data set - via Kaggle:
+# Breast cancer Wisconsin diagnostic data set - Kaggle
+## Binary classification - algorithms comparison
 
 https://www.kaggle.com/uciml/breast-cancer-wisconsin-data
 
