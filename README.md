@@ -28,7 +28,7 @@ Ten real-valued features are computed for each cell nucleus:
 #### Limitations: super small data set!
 
 
-Table of Contents:
+# Table of Contents:
 1. Data set preparation
 
     1.1 Read the data set
